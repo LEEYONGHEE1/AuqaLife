@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aqualife</string>
+    <string name="temperatureValue">%s℃ / %s℃</string>
+    <string name="scheduleData">%s ~ %s</string>
+</resources>

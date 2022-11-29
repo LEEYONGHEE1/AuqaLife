@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "684620674026",
+    "project_id": "aqualife-153de",
+    "storage_bucket": "aqualife-153de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684620674026:android:0ec54ef5c936ee424b3893",
+        "android_client_info": {
+          "package_name": "com.project.aqualife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684620674026-pmcermg38mhh5tjr6mes2vvmdu567dkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB68V-OHhbEpMk8xlSga6wudCnZPf046TQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684620674026-pmcermg38mhh5tjr6mes2vvmdu567dkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
